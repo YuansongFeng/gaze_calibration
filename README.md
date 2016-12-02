@@ -10,4 +10,6 @@ These 9 images will form the base vectors for later gaze recognition. Specifical
 Since the photos are taken when the user stares at nine spots that completely cover the screen, we now can use superposition to determine user's gaze at any direction.
 
 ## Screen Shot
-![picture alt](https://github.com/YuansongFeng/gaze_calibration/tree/master/screeshots)
+![picture alt](https://github.com/YuansongFeng/gaze_calibration/blob/master/screeshots/gaze1.jpg)
+![picture alt](https://github.com/YuansongFeng/gaze_calibration/blob/master/screeshots/gaze2.jpg)
+![picture alt](https://github.com/YuansongFeng/gaze_calibration/blob/master/screeshots/gaze3.jpg)
