@@ -10,3 +10,4 @@ These 9 images will form the base vectors for later gaze recognition. Specifical
 Since the photos are taken when the user stares at nine spots that completely cover the screen, we now can use superposition to determine user's gaze at any direction.
 
 ## Screen Shot
+![picture alt](https://github.com/YuansongFeng/android_video_recording/blob/master/screenshots.png)
